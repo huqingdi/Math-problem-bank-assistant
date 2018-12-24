@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/ic_ku"
+        android:icon="@drawable/ic_ku"
+        android:title="题库"
+        android:textSize="10sp"/>
+    <item
+        android:id="@+id/navigation_think"
+        android:icon="@drawable/ic_think"
+        android:title="思维导图"
+        android:textSize="10sp"
+        />
+    <item
+        android:id="@+id/search_page"
+        android:icon="@drawable/ic_search"
+        android:title="搜索"
+        android:textSize="10sp"
+        />
+</menu>
